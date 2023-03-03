@@ -4,4 +4,4 @@ print("yaudah")
 x = 5
 y = 5
 z = x**y
-print("selamat datang di GitHub)
+print("selamat datang di GitHub")
