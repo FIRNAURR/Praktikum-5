@@ -50,8 +50,8 @@ print(len(stk))
 
 class Mobil:
     def __init__(self,brand,harga): 
-self.brand = brand
-self.harga = harga
+        self.brand = brand
+        self.harga = harga
 
 kendaraan1 = Mobil('TOYOTA',500)
 print(kendaraan1.brand)
