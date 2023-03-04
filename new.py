@@ -63,4 +63,6 @@ print(kendaraan2.harga)
 kendaraan3 = Mobil('BMW',12000)
 print(kendaraan3.brand)
 print(kendaraan3.harga)
-
+kendaraan4 = Mobil('Pajero',130000)
+print(kendaraan4.brand)
+print(kendaraan4.harga)
