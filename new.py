@@ -46,3 +46,5 @@ print(stk)
 stk.append(11)
 print("data masuk", 11)
 print("data sekarang", stk)
+print(len(stk))
+
