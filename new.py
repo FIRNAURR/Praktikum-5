@@ -49,9 +49,10 @@ print("data sekarang", stk)
 print(len(stk))
 
 class Mobil:
-    def __init__(self,brand,harga): #(__init__ = method)
-# self.brand = brand
-# self.harga = harga
+    def __init__(self,brand,harga): 
+self.brand = brand
+self.harga = harga
+
 kendaraan1 = Mobil('TOYOTA',500)
 print(kendaraan1.brand)
 print(kendaraan1.harga)
