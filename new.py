@@ -48,7 +48,7 @@ print("data masuk", 11)
 print("data sekarang", stk)
 print(len(stk))
 print(max(stk))
-print(min(stk))
+
 
 class Mobil:
     def __init__(self,brand,harga): 
