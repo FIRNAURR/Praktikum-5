@@ -42,3 +42,5 @@ print(hasil1)
 
 
 
+print("tes 1 2 3")
+print("berhasil ya!!!")
